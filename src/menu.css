@@ -1,0 +1,54 @@
+.menu-sandwich-none{
+    display: none;
+}
+
+.menu-sandwich{
+   
+}
+
+.nav-container{
+   
+}
+
+.menu-container{
+    width:65%;
+    height: 100%;
+    right:0px ;
+    background-color: white;
+    position: absolute;
+    padding: 15px;
+    text-align: left;
+    font-size: 18px;
+    color: var(--mediumGray);
+    line-height: 40px;
+
+    
+}
+
+.x-container{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.login-container{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    gap: 20px;
+}
+
+.btn-menu{
+    font-size: .9rem;
+    color: var(--mediumGray);
+    border: none;
+    background:none;
+}
+
+.btn-register{
+    padding: 10px 20px;
+    border: 2px solid var(--mediumGray);
+    border-radius: 10px;
+}
+
+
+
