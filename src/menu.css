@@ -50,5 +50,15 @@
     border-radius: 10px;
 }
 
+.item-section{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    cursor: pointer;
+}
+.item-section img{
+    width: 10px;
+    height: 6px;
+}
 
 
